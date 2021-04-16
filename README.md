@@ -8,3 +8,8 @@ This file contains code to create a database of 16 video file each of 30 seconds
 The Model was about 74% accurate that could be due during my analysis
 The code may contains bugs.
 The code is not meant for any industrial application.
+# IMP:
+if notebooks fails to load:
+Try to open that notebook that you want using nbviewer online, you don't need to install it.
+# Open "https://nbviewer.jupyter.org/"
+Paste the link to your notebook, (e.g. "https://github.com/dryrun.ipynb") there and then you get "http://nbviewer.jupyter.org/github/dryrun.ipynb"
